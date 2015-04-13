@@ -1,0 +1,638 @@
+{
+  "title": "Prefix",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "2": {
+      "title": "Sessions",
+      "id": 23,
+      "ideas": {
+        "1": {
+          "title": "new -s <name>",
+          "id": 24,
+          "attr": {
+            "style": {
+              "background": "#993366"
+            }
+          }
+        },
+        "2": {
+          "title": "attach -t <name>",
+          "id": 25,
+          "attr": {
+            "style": {
+              "background": "#993366"
+            }
+          }
+        },
+        "3": {
+          "title": "kill-session -t <name>",
+          "id": 26,
+          "attr": {
+            "style": {
+              "background": "#993366"
+            }
+          }
+        },
+        "5": {
+          "title": "kill-server",
+          "id": 75,
+          "attr": {
+            "style": {
+              "background": "#993366"
+            }
+          }
+        },
+        "6": {
+          "title": "Navigate",
+          "id": 86,
+          "ideas": {
+            "1": {
+              "title": "Next Session",
+              "id": 87,
+              "ideas": {
+                "1": {
+                  "title": ")",
+                  "attr": {
+                    "style": {
+                      "background": "#ffcc00"
+                    }
+                  },
+                  "id": 89
+                }
+              }
+            },
+            "2": {
+              "title": "Previous Session",
+              "id": 88,
+              "ideas": {
+                "1": {
+                  "title": "(",
+                  "attr": {
+                    "style": {
+                      "background": "#ffcc00"
+                    }
+                  },
+                  "id": 92
+                }
+              }
+            }
+          }
+        },
+        "7": {
+          "title": "Rename Current",
+          "id": 97,
+          "ideas": {
+            "1": {
+              "title": "$",
+              "attr": {
+                "style": {
+                  "background": "#ffcc00"
+                }
+              },
+              "id": 98
+            }
+          }
+        },
+        "0.5": {
+          "title": "ls",
+          "id": 27,
+          "attr": {
+            "style": {
+              "background": "#993366"
+            }
+          }
+        }
+      }
+    },
+    "-2": {
+      "title": "Pane",
+      "id": 13,
+      "ideas": {
+        "2": {
+          "title": "Navigation",
+          "id": 18,
+          "ideas": {
+            "1": {
+              "title": "Directional",
+              "id": 57,
+              "ideas": {
+                "1": {
+                  "title": "Right",
+                  "id": 53,
+                  "attr": {
+                    "style": {}
+                  },
+                  "ideas": {
+                    "1": {
+                      "title": "ˆ‹ˆ˜]ˆˆÂˆœİ[HˆÂˆ˜˜XÚÙÜ›İ[™ˆˆÙ™˜ØÌ‚ˆBˆKˆšYˆBˆBˆBˆKˆŒˆˆÂˆ]Hˆ•\‹ˆšYˆMKˆ˜]ˆˆÂˆœİ[HˆßBˆKˆšYX\ÈˆÂˆŒHˆÂˆ]Hˆ"À¢&GG"#¢°¢'7G–ÆR#¢°¢&&6¶w&÷VæB#¢"6ff63 ¢Ğ¢ÒÀ¢&–B#¢c€¢Ğ¢Ğ¢ÒÀ¢#2#¢°¢'F—FÆR#¢$F÷vâ"À¢&–B#¢SbÀ¢&GG"#¢°¢'7G–ÆR#¢·Ğ¢ÒÀ¢&–FV2#¢°¢##¢°¢'F—FÆR#¢ˆ°(€€€€€€€€€€€€€€€€€€€€€€‰…ÑÑÈˆèì(€€€€€€€€€€€€€€€€€€€€€€€€‰ÍÑå±”ˆèì(€€€€€€€€€€€€€€€€€€€€€€€€€€‰‰…­É½Õ¹ˆè€ˆ™™ŒÀÀˆ(€€€€€€€€€€€€€€€€€€€€€€€ô(€€€€€€€€€€€€€€€€€€€€€ô°(€€€€€€€€€€€€€€€€€€€€€€‰¥ˆè€ØÜ(€€€€€€€€€€€€€€€€€€€ô(€€€€€€€€€€€€€€€€€ô(€€€€€€€€€€€€€€€ô°(€€€€€€€€€€€€€€€€ˆĞˆèì(€€€€€€€€€€€€€€€€€€‰Ñ¥Ñ±”ˆè€‰1•™Ğˆ°(€€€€€€€€€€€€€€€€€€‰¥ˆè€ÔĞ°(€€€€€€€€€€€€€€€€€€‰…ÑÑÈˆèì(€€€€€€€€€€€€€€€€€€€€‰ÍÑå±”ˆèíô(€€€€€€€€€€€€€€€€€ô°(€€€€€€€€€€€€€€€€€€‰¥‘•…Ìˆèì(€€€€€€€€€€€€€€€€€€€€ˆÄˆèì(€€€€€€€€€€€€€€€€€€€€€€‰Ñ¥Ñ±”ˆè€€",
+                      "attr": {
+                        "style": {
+                          "background": "#ffcc00"
+                        }
+                      },
+                      "id": 66
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Show Pane Numbers",
+              "id": 79,
+              "ideas": {
+                "1": {
+                  "title": "q",
+                  "attr": {
+                    "style": {
+                      "background": "#ffcc00"
+                    }
+                  },
+                  "id": 80
+                }
+              }
+            }
+          }
+        },
+        "7": {
+          "title": "Movement",
+          "id": 81,
+          "ideas": {
+            "1": {
+              "title": "Swap Locations",
+              "id": 76,
+              "ideas": {
+                "1": {
+                  "title": "CTRL-o",
+                  "attr": {
+                    "style": {
+                      "background": "#ffcc00"
+                    }
+                  },
+                  "id": 78
+                }
+              },
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Move Pane Left",
+              "id": 82,
+              "ideas": {
+                "1": {
+                  "title": "{",
+                  "attr": {
+                    "style": {
+                      "background": "#ffcc00"
+                    }
+                  },
+                  "id": 83
+                }
+              }
+            },
+            "3": {
+              "title": "Move Pane Right",
+              "id": 84,
+              "ideas": {
+                "1": {
+                  "title": "}",
+                  "attr": {
+                    "style": {
+                      "background": "#ffcc00"
+                    }
+                  },
+                  "id": 85
+                }
+              }
+            }
+          }
+        },
+        "0.5": {
+          "title": "Kill",
+          "id": 60,
+          "ideas": {
+            "1": {
+              "title": "x",
+              "id": 61,
+              "attr": {
+                "style": {
+                  "background": "#ffcc00"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {}
+          }
+        },
+        "0.75": {
+          "title": "Break Current Pane to new Window",
+          "id": 62,
+          "ideas": {
+            "1": {
+              "title": "!",
+              "id": 63,
+              "attr": {
+                "style": {
+                  "background": "#ffcc00"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {}
+          }
+        },
+        "2.5": {
+          "title": "Resizing",
+          "id": 15,
+          "attr": {
+            "position": [
+              119.5,
+              131.875,
+              1
+            ],
+            "style": {}
+          }
+        },
+        "2.25": {
+          "title": "Naming",
+          "id": 19,
+          "attr": {
+            "style": {}
+          }
+        }
+      }
+    },
+    "0.25": {
+      "title": "Command Prompt",
+      "id": 95,
+      "attr": {
+        "position": [
+          47.5,
+          -379,
+          1
+        ],
+        "style": {}
+      },
+      "ideas": {
+        "1": {
+          "title": ":",
+          "attr": {
+            "style": {
+              "background": "#ffcc00"
+            }
+          },
+          "id": 96
+        }
+      }
+    },
+    "0.125": {
+      "title": "Detach",
+      "id": 70,
+      "attr": {
+        "style": {}
+      },
+      "ideas": {
+        "1": {
+          "title": "d",
+          "attr": {
+            "style": {
+              "background": "#ffcc00"
+            }
+          },
+          "id": 71
+        }
+      }
+    },
+    "0.0625": {
+      "title": "CTRL-b",
+      "id": 20,
+      "attr": {
+        "style": {
+          "background": "#ffcc00"
+        }
+      }
+    },
+    "1.125": {
+      "title": "Show Key Bindings",
+      "id": 50,
+      "ideas": {
+        "1": {
+          "title": "?",
+          "id": 51,
+          "attr": {
+            "style": {
+              "background": "#ffcc00"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {}
+      }
+    },
+    "1.5625": {
+      "title": "Clock",
+      "id": 73,
+      "ideas": {
+        "1": {
+          "title": "t",
+          "attr": {
+            "style": {
+              "background": "#ffcc00"
+            }
+          },
+          "id": 74
+        }
+      },
+      "attr": {
+        "style": {}
+      }
+    },
+    "-12": {
+      "title": "Window",
+      "id": 14,
+      "ideas": {
+        "3": {
+          "title": "Create",
+          "id": 35,
+          "ideas": {
+            "1": {
+              "title": "c",
+              "id": 28,
+              "attr": {
+                "style": {
+                  "background": "#ffcc00"
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "title": "Find",
+          "id": 36,
+          "ideas": {
+            "1": {
+              "title": "f",
+              "id": 37,
+              "attr": {
+                "style": {
+                  "background": "#ffcc00"
+                }
+              }
+            }
+          }
+        },
+        "5": {
+          "title": "Menu",
+          "id": 38,
+          "ideas": {
+            "1": {
+              "title": "w",
+              "id": 41,
+              "attr": {
+                "style": {
+                  "background": "#ffcc00"
+                }
+              }
+            }
+          }
+        },
+        "18": {
+          "title": "Navigation",
+          "id": 16,
+          "ideas": {
+            "4": {
+              "title": "Goto",
+              "id": 32,
+              "ideas": {
+                "1": {
+                  "title": "0-9",
+                  "id": 31,
+                  "attr": {
+                    "style": {
+                      "background": "#ffcc00"
+                    }
+                  }
+                }
+              }
+            },
+            "5": {
+              "title": "Previous",
+              "id": 33,
+              "ideas": {
+                "1": {
+                  "title": "p",
+                  "id": 22,
+                  "attr": {
+                    "style": {
+                      "background": "#ffcc00"
+                    }
+                  }
+                }
+              }
+            },
+            "6": {
+              "title": "Next",
+              "id": 34,
+              "ideas": {
+                "1": {
+                  "title": "n",
+                  "id": 21,
+                  "attr": {
+                    "style": {
+                      "background": "#ffcc00"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {}
+          }
+        },
+        "23": {
+          "title": "Kill",
+          "id": 39,
+          "ideas": {
+            "1": {
+              "title": "&",
+              "id": 40,
+              "attr": {
+                "style": {
+                  "background": "#ffcc00"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {}
+          }
+        },
+        "28": {
+          "title": "Split",
+          "id": 52,
+          "attr": {
+            "position": [
+              80,
+              224.75,
+              1
+            ],
+            "style": {}
+          },
+          "ideas": {
+            "1": {
+              "title": "Horizontal",
+              "id": 58,
+              "ideas": {
+                "1": {
+                  "title": "\"",
+                  "id": 64,
+                  "attr": {
+                    "style": {
+                      "background": "#ffcc00"
+                    }
+                  }
+                }
+              }
+            },
+            "2": {
+              "title": "Vertical",
+              "id": 59,
+              "ideas": {
+                "1": {
+                  "title": "%",
+                  "id": 65,
+                  "attr": {
+                    "style": {
+                      "background": "#ffcc00"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "29": {
+          "title": "Move",
+          "id": 93,
+          "ideas": {
+            "1": {
+              "title": ".",
+              "attr": {
+                "style": {
+                  "background": "#ffcc00"
+                }
+              },
+              "id": 94
+            }
+          }
+        },
+        "20.5": {
+          "title": "Rename",
+          "id": 42,
+          "ideas": {
+            "1": {
+              "title": ",",
+              "id": 46,
+              "attr": {
+                "style": {
+                  "background": "#ffcc00"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {}
+          }
+        }
+      },
+      "attr": {
+        "style": {},
+        "position": [
+          127.5,
+          325,
+          2
+        ]
+      }
+    },
+    "2.5": {
+      "title": "Show Messages",
+      "id": 100,
+      "attr": {
+        "style": {}
+      },
+      "ideas": {
+        "1": {
+          "title": "~",
+          "attr": {
+            "style": {
+              "background": "#ffcc00"
+            }
+          },
+          "id": 101
+        }
+      }
+    },
+    "1.78125": {
+      "title": "Copy Mode",
+      "id": 43,
+      "ideas": {
+        "2": {
+          "title": "Enter",
+          "id": 47,
+          "ideas": {
+            "1": {
+              "title": "[",
+              "id": 44,
+              "attr": {
+                "style": {
+                  "background": "#ffcc00"
+                }
+              }
+            }
+          }
+        },
+        "3": {
+          "title": "Paste",
+          "id": 48,
+          "ideas": {
+            "1": {
+              "title": "]",
+              "id": 49,
+              "attr": {
+                "style": {
+                  "background": "#ffcc00"
+                }
+              }
+            }
+          }
+        }
+      },
+      "attr": {
+        "attachment": {
+          "contentType": "text/html",
+          "content": "<pre style=\"color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);\">* press CTRL-SPACE or CTRL-@ to start selecting text\n* move cursor to end of desired text\n* press ALT-w to copy selected text</pre>"
+        },
+        "style": {},
+        "position": [
+          24.5,
+          -83,
+          3
+        ]
+      }
+    }
+  },
+  "links": [],
+  "attr": {
+    "style": {
+      "background": "#ffcc00"
+    }
+  }
+}
